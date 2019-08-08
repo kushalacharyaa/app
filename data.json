@@ -1,4 +1,6 @@
 {
-'contact_page':{
+'map_page':{
 'latitude':'','longitude':''}
+  'contact_page':{
+'username':'','Email':''}
 }
